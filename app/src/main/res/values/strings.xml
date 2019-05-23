@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomExpandableRecyclerMMIT</string>
+    <string name="expanded">expanded: %s</string>
+    <string name="collapsed">collapsed: %s</string>
+</resources>
